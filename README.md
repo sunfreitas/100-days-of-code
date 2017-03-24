@@ -22,4 +22,4 @@
 * If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
 
 ## Day 10 Mar, 24. 2017
-Today I finished a material card using BEM metodology with my little P1 project to create a simple web site using this meth. This is the (codePen)[https://goo.gl/Bxb9cb] to see something more visually.
+Today I finished a material card using BEM metodology with my little P1 project to create a simple web site using this meth. This is the [codePen](https://goo.gl/Bxb9cb) to see something more visually.
